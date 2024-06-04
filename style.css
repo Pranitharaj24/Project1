@@ -1,0 +1,22 @@
+.heading{
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sub{
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img{
+    display: inline-block;
+    align-items: center;
+    align-content: center;
+    white-space: nowrap;
+}
+.body{
+    text-align: center;
+}    
+.bg{
+    background-image: url('bg4.jpg');
+}

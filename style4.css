@@ -1,0 +1,19 @@
+.head{
+    text-align: center;
+    color: rgb(80, 28, 63);
+}
+.sub{
+    text-align: center;
+    color:rgba(53, 12, 61, 0.689);
+}
+.para{
+    text-align: justify;
+}
+.body{
+    text-align: center;
+    background-image: url('bg3.jpg');
+    height: 500px;
+}
+.link{
+    color: rgba(98, 18, 18, 0.925);
+}
